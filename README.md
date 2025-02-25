@@ -1,4 +1,4 @@
-# Jupyter-Python-Crap
+# Jupyter Python Crap
 
 ```sh
 All things Jupyter related
